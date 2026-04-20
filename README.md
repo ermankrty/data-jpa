@@ -359,3 +359,4 @@
 2025-05-21 - Commit 0
 2025-05-21 - Commit 1
 Fixed repository lookup behavior for missing entities
+Improved transaction handling during batch updates
