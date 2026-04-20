@@ -361,3 +361,4 @@
 Fixed repository lookup behavior for missing entities
 Improved transaction handling during batch updates
 Simplified entity mapping for optional fields
+Fixed stale persistence context after bulk changes
