@@ -358,3 +358,4 @@
 2025-05-20 - Commit 1
 2025-05-21 - Commit 0
 2025-05-21 - Commit 1
+Fixed repository lookup behavior for missing entities
