@@ -364,3 +364,4 @@ Simplified entity mapping for optional fields
 Fixed stale persistence context after bulk changes
 Fixed entity state after a failed save
 Improved query handling for optional filters
+Fixed pagination when the result set changes
