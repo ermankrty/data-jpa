@@ -366,3 +366,4 @@ Fixed entity state after a failed save
 Improved query handling for optional filters
 Fixed pagination when the result set changes
 Reduced duplicate entity lookups during updates
+Fixed a repository edge case when no matching row exists
