@@ -368,3 +368,4 @@ Fixed pagination when the result set changes
 Reduced duplicate entity lookups during updates
 Fixed a repository edge case when no matching row exists
 Fixed entity updates when optional fields are omitted
+Improved query performance for repeated lookups
