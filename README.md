@@ -371,3 +371,4 @@ Fixed entity updates when optional fields are omitted
 Improved query performance for repeated lookups
 Cleaned up transaction state after rollback
 Fixed stale entity state after a bulk save
+Improved handling for duplicate query results
