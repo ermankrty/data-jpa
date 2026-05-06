@@ -370,3 +370,4 @@ Fixed a repository edge case when no matching row exists
 Fixed entity updates when optional fields are omitted
 Improved query performance for repeated lookups
 Cleaned up transaction state after rollback
+Fixed stale entity state after a bulk save
