@@ -372,3 +372,4 @@ Improved query performance for repeated lookups
 Cleaned up transaction state after rollback
 Fixed stale entity state after a bulk save
 Improved handling for duplicate query results
+Fixed repository behavior when an entity is detached
