@@ -376,3 +376,4 @@ Fixed repository behavior when an entity is detached
 Fixed lazy loading behavior after session refresh
 Improved handling for duplicate entity mappings
 Simplified transaction cleanup after rollback
+Fixed stale query results after entity updates
