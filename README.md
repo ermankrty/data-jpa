@@ -380,3 +380,4 @@ Fixed stale query results after entity updates
 Improved entity refresh after transaction commit
 Fixed entity merge behavior with detached relationships
 Improved query handling for nullable parameters
+Reduced unnecessary persistence context flushes
