@@ -382,3 +382,4 @@ Fixed entity merge behavior with detached relationships
 Improved query handling for nullable parameters
 Reduced unnecessary persistence context flushes
 Fixed stale entity state after transaction rollback
+Fixed repository behavior when a batch update partially fails
