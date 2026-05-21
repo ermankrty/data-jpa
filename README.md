@@ -385,3 +385,4 @@ Fixed stale entity state after transaction rollback
 Fixed repository behavior when a batch update partially fails
 Improved cleanup after transaction exceptions
 Fixed persistence behavior when an entity is updated twice in one transaction
+Fixed query behavior when sorting by nullable fields
