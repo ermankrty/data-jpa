@@ -388,3 +388,4 @@ Fixed persistence behavior when an entity is updated twice in one transaction
 Fixed query behavior when sorting by nullable fields
 Improved entity lookup handling after cache invalidation
 Removed redundant flush before transaction commit
+Fixed query behavior after entity deletion
