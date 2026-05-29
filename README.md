@@ -392,3 +392,4 @@ Fixed query behavior after entity deletion
 Improved persistence context cleanup after batch operations
 Fixed stale repository state after a failed delete
 Fixed duplicate results when combining repository filters
+Improved entity refresh after bulk updates
